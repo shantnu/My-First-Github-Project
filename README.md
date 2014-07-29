@@ -1,4 +1,4 @@
 My-First-Github-Project
 =======================
 
-This is my first Github project
+Taken from the tutorial at http://pythonforengineers.com/your-first-git-project-on-windows-not-a-commandline-in-sight/
